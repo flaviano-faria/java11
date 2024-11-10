@@ -10,5 +10,10 @@ public class Main {
         service.getListItems();
         HttpClientService clientService = new HttpClientService();
         clientService.sendHttpRequest();
+
+        service.listToArray();
+        service.stripString("   a 1 4 6 7");
+
+        service.trimString("    3 5 6 7   ");
     }
 }
