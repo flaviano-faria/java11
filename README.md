@@ -9,3 +9,5 @@ Service.getListItems():
  service.stripString(String value):
  - Demonstrates String.strip() method
 
+ service.stripLeadingString(String value):
+ - Demonstrates String.stripLeading() method
