@@ -11,3 +11,6 @@ Service.getListItems():
 
  service.stripLeadingString(String value):
  - Demonstrates String.stripLeading() method
+
+  service.stripTailingString(String value):
+ - Demonstrates String.stripTailing() method
