@@ -6,3 +6,6 @@ Service.getListItems():
  service.listToArray():
 -  Demonstrates List.toArray() method
 
+ service.stripString(String value):
+ - Demonstrates String.strip() method
+
