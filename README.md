@@ -14,3 +14,6 @@ Service.getListItems():
 
   service.stripTailingString(String value):
  - Demonstrates String.stripTailing() method
+
+  service.isBlankString(String value):
+ - Demonstrates String.isBlank() method
