@@ -49,4 +49,8 @@ public class Service {
     public void repeatString(String value, int numberOfRepeats){
         System.out.println(value.repeat(numberOfRepeats));
     }
+
+    public void linesString(String value){
+        value.lines().forEach(s -> System.out.println(s));
+    }
 }

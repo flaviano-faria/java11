@@ -22,5 +22,7 @@ public class Main {
         service.isBlankString("");
 
         service.repeatString("abc", 10);
+
+        service.linesString("test\ntest2");
     }
 }
