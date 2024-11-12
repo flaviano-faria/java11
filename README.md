@@ -20,3 +20,6 @@ Service.getListItems():
 
   service.repeatString(String value, int numberOfRepeats):
  - Demonstrates String.repeatString(String value, int numberOfRepeats) method
+
+   service.linesString(String value):
+ - Demonstrates String.lines() method
