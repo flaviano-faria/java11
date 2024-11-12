@@ -17,3 +17,6 @@ Service.getListItems():
 
   service.isBlankString(String value):
  - Demonstrates String.isBlank() method
+
+  service.repeatString(String value, int numberOfRepeats):
+ - Demonstrates String.repeatString(String value, int numberOfRepeats) method
