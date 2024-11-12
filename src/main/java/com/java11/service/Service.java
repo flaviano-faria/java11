@@ -33,4 +33,20 @@ public class Service {
     public void trimString(String value){
         System.out.println(value.trim());
     }
+
+    public void stripLeadingString(String value){
+        System.out.println(value.stripLeading());
+    }
+
+    public void stripTailingString(String value){
+        System.out.println(value.stripTrailing());
+    }
+
+    public void isBlankString(String value){
+        System.out.println(value.isBlank());
+    }
+
+    public void repeatString(String value, int numberOfRepeats){
+        System.out.println(value.repeat(numberOfRepeats));
+    }
 }

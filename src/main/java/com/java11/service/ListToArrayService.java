@@ -2,7 +2,7 @@ package com.java11.service;
 
 import java.util.List;
 
-public class ListToArray {
+public class ListToArrayService {
 
     public static void main(String[] args) {
         List<String> list = List.of("List", "to", "Array");
